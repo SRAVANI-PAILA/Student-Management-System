@@ -87,4 +87,3 @@ student-management/
 ├── package.json
 ├── package-lock.json
 ├── vite.config.js
-└── README.md
