@@ -1,0 +1,59 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "P Sravani",
+      "rollNo": "101",
+      "email": "pailasravani22@gmail.com",
+      "phone": "8341499730",
+      "gender": "Female",
+      "course": "MCA",
+      "year": "2nd Year",
+      "address": "Nellore"
+    },
+    {
+      "name": "B Jagadeesh",
+      "rollNo": "102",
+      "email": "botchajagadeesh27@gmail.com",
+      "phone": "8309722081",
+      "gender": "Male",
+      "course": "MCA",
+      "year": "2nd Year",
+      "address": "vizianagaram",
+      "id": 2
+    },
+    {
+      "name": "B Manoj",
+      "rollNo": "103",
+      "email": "billemj9@gmail.com",
+      "phone": "9492750980",
+      "gender": "Male",
+      "course": "MCA",
+      "year": "2nd Year",
+      "address": "Ananthapuram",
+      "id": 3
+    },
+    {
+      "name": "G Harikrishna",
+      "rollNo": "104",
+      "email": "gollaharikrishanna9@gmail.com",
+      "phone": "9390821952",
+      "gender": "Male",
+      "course": "MCA",
+      "year": "2nd Year",
+      "address": "Ananthapuram",
+      "id": 4
+    },
+    {
+      "name": "I Malasree",
+      "rollNo": "105",
+      "email": "indelamalasree@gmail.com",
+      "phone": "6309657518",
+      "gender": "Female",
+      "course": "MCA",
+      "year": "2nd Year",
+      "address": "Nellore",
+      "id": 5
+    }
+  ]
+}
