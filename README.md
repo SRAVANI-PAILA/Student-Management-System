@@ -1,20 +1,90 @@
-HEAD
-# Student-Management-System
+# 🎓 Student Management System
 
-# React + Vite
+A simple and responsive **Student Management System** built using **React JS, JSON Server, Axios, and React Router**.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project allows users to manage student records easily with complete CRUD operations such as adding, viewing, updating, and deleting students.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 🏠 Home / Dashboard
+- 👨‍🎓 View all students
+- ➕ Add new student
+- ✏️ Edit student details
+- 👁️ View complete student details
+- 🗑️ Delete student
+- 🔢 Automatic numeric Student ID
+- ✅ Form validation
+- 🚫 Unique Roll Number validation
+- 🚫 Unique Email validation
+- 📱 Fully responsive design
+- 🍔 Mobile hamburger navigation menu
+- 🔗 React Router navigation
+- ⚡ Axios API integration
+- 💾 JSON Server as a local REST API
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-68726d9 (Student management system)
+### Frontend
+- React JS
+- JavaScript
+- HTML
+- CSS
+
+### Libraries
+- React Router DOM
+- Axios
+
+### Backend / Database
+- JSON Server
+- JSON file (`db.json`)
+
+### Development Tool
+- Vite
+- VS Code
+- Git & GitHub
+
+---
+
+## 📂 Project Structure
+
+```text
+student-management/
+│
+├── public/
+│
+├── src/
+│   │
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   └── Navbar.css
+│   │
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Home.css
+│   │   ├── Students.jsx
+│   │   ├── Students.css
+│   │   ├── AddStudent.jsx
+│   │   ├── AddStudent.css
+│   │   ├── EditStudent.jsx
+│   │   ├── EditStudent.css
+│   │   ├── StudentDetails.jsx
+│   │   ├── StudentDetails.css
+│   │   ├── About.jsx
+│   │   └── About.css
+│   │
+│   ├── services/
+│   │   └── studentService.js
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── db.json
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
