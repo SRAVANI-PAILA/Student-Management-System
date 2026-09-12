@@ -9,9 +9,6 @@ This project allows users to manage student records easily with complete CRUD op
 ### Frontend
 [Student Management System](https://student-management-system-six-theta.vercel.app)
 
-### Backend API
-[JSON Server API](https://student-management-system-ca9j.onrender.com)
-
 ## 🚀 Features
 
 - 🏠 Home / Dashboard
