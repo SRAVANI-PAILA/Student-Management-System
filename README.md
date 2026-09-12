@@ -4,7 +4,13 @@ A simple and responsive **Student Management System** built using **React JS, JS
 
 This project allows users to manage student records easily with complete CRUD operations such as adding, viewing, updating, and deleting students.
 
----
+## 🌐 Live Demo
+
+### Frontend
+[Student Management System](https://student-management-system-six-theta.vercel.app)
+
+### Backend API
+[JSON Server API](https://student-management-system-ca9j.onrender.com)
 
 ## 🚀 Features
 
@@ -22,7 +28,7 @@ This project allows users to manage student records easily with complete CRUD op
 - 🍔 Mobile hamburger navigation menu
 - 🔗 React Router navigation
 - ⚡ Axios API integration
-- 💾 JSON Server as a local REST API
+- 💾 JSON Server REST API
 
 ---
 
@@ -41,6 +47,7 @@ This project allows users to manage student records easily with complete CRUD op
 ### Backend / Database
 - JSON Server
 - JSON file (`db.json`)
+- REST API hosted on Render
 
 ### Development Tool
 - Vite
