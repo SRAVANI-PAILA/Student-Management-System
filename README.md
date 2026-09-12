@@ -5,8 +5,6 @@ A simple and responsive **Student Management System** built using **React JS, JS
 This project allows users to manage student records easily with complete CRUD operations such as adding, viewing, updating, and deleting students.
 
 ## 🌐 Live Demo
-
-### Frontend
 [Student Management System](https://student-management-system-six-theta.vercel.app)
 
 ## 🚀 Features
